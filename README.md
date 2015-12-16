@@ -17,6 +17,7 @@ The information displayed for each of the fruit should have a ‘button like’ 
 interact with each of the fruit displays.
 
 Available to the user is a ‘total cash’ and an inventory display that shows how much of each of the fruits they 
+>>Create inventory display.
 have purchased. Also in the user display, should be an ‘average purchased price’, which shows, on average, how 
 much money they have spent on a given fruit in their inventory.
 
